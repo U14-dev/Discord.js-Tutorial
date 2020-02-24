@@ -21,9 +21,9 @@ Discord.js Tutorial auf Deutsch mit Heroku als Host
 
 
 ### Editor: Atom
- - Download und Installation: atom.io, dann öffnen
- - gehe zu: **File / Settings / Install**, suchen und installieren:
- 1.
+ 1. Download und Installation: atom.io, dann öffnen
+ 2. gehe zu: **File / Settings / Install**, suchen und installieren:
+ 
    - atom-beautify (Settings: zu Javascript scrollen und **Beautify On Safe** aktivieren)
    - atom-i18n (Settings: **Language** auf Deutsch umstellen)
    - atom-ternjs
