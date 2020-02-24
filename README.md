@@ -6,6 +6,7 @@ Discord.js Tutorial auf Deutsch mit Heroku als Host
 - [Node.js](https://nodejs.org/en/)
 - Einen Editor deiner Wahl
   z.B. [Visual Studio Code](https://code.visualstudio.com/download)
+  oder [Atom](atom.io)
   
   
  ### Grundlegendes
